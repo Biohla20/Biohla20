@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abiola (@Biohla20)
 - 👀 I’m interested in Biomedical science, Bio and Health Informatics
 - 🌱 I’m currently learning data and its intrincacies
-- 💞️ I’m looking to collaborate on everything regarding line 2
+- 💞️ I’m looking to collaborate on everything regarding line 2 and 3
 - 📫 Reach me on LinkedIn
 - ⚡ Fun fact: Continuous learning is what I do!
 
